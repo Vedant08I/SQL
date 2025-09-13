@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vedant08I/SQL/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vedant08I/SQL/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vedant08I/SQL/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
