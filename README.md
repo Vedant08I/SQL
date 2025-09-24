@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Vedant08I/SQL/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
