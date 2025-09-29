@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Vedant08I/SQL/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Vedant08I/SQL/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vedant08I/SQL/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Vedant08I/SQL/tree/master/0120-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Vedant08I/SQL/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Greedy
 |  |
 | ------- |
