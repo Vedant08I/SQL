@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Vedant08I/SQL/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Vedant08I/SQL/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vedant08I/SQL/tree/master/3678-design-task-manager) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
