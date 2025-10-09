@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vedant08I/SQL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vedant08I/SQL/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Vedant08I/SQL/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3827-implement-router](https://github.com/Vedant08I/SQL/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vedant08I/SQL/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Vedant08I/SQL/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Geometry
 |  |
 | ------- |
