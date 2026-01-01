@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vedant08I/SQL/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Vedant08I/SQL/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vedant08I/SQL/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedant08I/SQL/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/Vedant08I/SQL/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/Vedant08I/SQL/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vedant08I/SQL/tree/master/0417-pacific-atlantic-water-flow) |
