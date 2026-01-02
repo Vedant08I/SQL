@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vedant08I/SQL/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vedant08I/SQL/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vedant08I/SQL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vedant08I/SQL/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Vedant08I/SQL/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Vedant08I/SQL/tree/master/0830-largest-triangle-area) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vedant08I/SQL/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vedant08I/SQL/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Vedant08I/SQL/tree/master/1111-minimum-score-triangulation-of-polygon) |
