@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedant08I/SQL/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Vedant08I/SQL/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vedant08I/SQL/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vedant08I/SQL/tree/master/0417-pacific-atlantic-water-flow) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Vedant08I/SQL/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vedant08I/SQL/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Vedant08I/SQL/tree/master/0794-swim-in-rising-water) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vedant08I/SQL/tree/master/0120-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vedant08I/SQL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Vedant08I/SQL/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vedant08I/SQL/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vedant08I/SQL/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
