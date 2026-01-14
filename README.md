@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vedant08I/SQL/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vedant08I/SQL/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Vedant08I/SQL/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vedant08I/SQL/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Vedant08I/SQL/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vedant08I/SQL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vedant08I/SQL/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Vedant08I/SQL/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Vedant08I/SQL/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/Vedant08I/SQL/tree/master/3827-implement-router) |
 ## Queue
@@ -279,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vedant08I/SQL/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
