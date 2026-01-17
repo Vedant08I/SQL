@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Vedant08I/SQL/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/Vedant08I/SQL/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Vedant08I/SQL/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Vedant08I/SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vedant08I/SQL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vedant08I/SQL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vedant08I/SQL/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Vedant08I/SQL/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vedant08I/SQL/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vedant08I/SQL/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Simulation
 |  |
