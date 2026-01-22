@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vedant08I/SQL/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [1895-largest-magic-square](https://github.com/Vedant08I/SQL/tree/master/1895-largest-magic-square) |
+| [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vedant08I/SQL/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vedant08I/SQL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/Vedant08I/SQL/tree/master/1895-largest-magic-square) |
+| [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vedant08I/SQL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
