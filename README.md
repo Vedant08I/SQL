@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vedant08I/SQL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vedant08I/SQL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vedant08I/SQL/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vedant08I/SQL/tree/master/2483-minimum-penalty-for-a-shop) |
