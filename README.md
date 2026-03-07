@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vedant08I/SQL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vedant08I/SQL/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vedant08I/SQL/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vedant08I/SQL/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vedant08I/SQL/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vedant08I/SQL/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Vedant08I/SQL/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vedant08I/SQL/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vedant08I/SQL/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
