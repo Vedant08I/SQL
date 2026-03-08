@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vedant08I/SQL/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Vedant08I/SQL/tree/master/1980-find-unique-binary-string) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vedant08I/SQL/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vedant08I/SQL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Vedant08I/SQL/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vedant08I/SQL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [1895-largest-magic-square](https://github.com/Vedant08I/SQL/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Vedant08I/SQL/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Vedant08I/SQL/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
