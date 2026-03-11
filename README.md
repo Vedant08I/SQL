@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Vedant08I/SQL/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vedant08I/SQL/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vedant08I/SQL/tree/master/3314-construct-the-minimum-bitwise-array-i) |
