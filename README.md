@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/Vedant08I/SQL/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Vedant08I/SQL/tree/master/3462-vowels-game-in-a-string) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vedant08I/SQL/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vedant08I/SQL/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vedant08I/SQL/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vedant08I/SQL/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vedant08I/SQL/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vedant08I/SQL/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vedant08I/SQL/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/Vedant08I/SQL/tree/master/3678-design-task-manager) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vedant08I/SQL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vedant08I/SQL/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vedant08I/SQL/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Vedant08I/SQL/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vedant08I/SQL/tree/master/1612-avoid-flood-in-the-city) |
 | [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vedant08I/SQL/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Vedant08I/SQL/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
