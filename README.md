@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vedant08I/SQL/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vedant08I/SQL/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Vedant08I/SQL/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/Vedant08I/SQL/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/Vedant08I/SQL/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Vedant08I/SQL/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vedant08I/SQL/tree/master/3678-design-task-manager) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Vedant08I/SQL/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Vedant08I/SQL/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
