@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Vedant08I/SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vedant08I/SQL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Vedant08I/SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vedant08I/SQL/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vedant08I/SQL/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vedant08I/SQL/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant08I/SQL/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vedant08I/SQL/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Vedant08I/SQL/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vedant08I/SQL/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vedant08I/SQL/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Vedant08I/SQL/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vedant08I/SQL/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vedant08I/SQL/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vedant08I/SQL/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vedant08I/SQL/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vedant08I/SQL/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
