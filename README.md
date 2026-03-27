@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vedant08I/SQL/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vedant08I/SQL/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vedant08I/SQL/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Vedant08I/SQL/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vedant08I/SQL/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Vedant08I/SQL/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vedant08I/SQL/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vedant08I/SQL/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant08I/SQL/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Vedant08I/SQL/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vedant08I/SQL/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vedant08I/SQL/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Vedant08I/SQL/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Vedant08I/SQL/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vedant08I/SQL/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant08I/SQL/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Vedant08I/SQL/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vedant08I/SQL/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vedant08I/SQL/tree/master/3643-flip-square-submatrix-vertically) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vedant08I/SQL/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vedant08I/SQL/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant08I/SQL/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Vedant08I/SQL/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vedant08I/SQL/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vedant08I/SQL/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant08I/SQL/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Vedant08I/SQL/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
 | ------- |
