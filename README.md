@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Vedant08I/SQL/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vedant08I/SQL/tree/master/0166-fraction-to-recurring-decimal) |
+| [0657-robot-return-to-origin](https://github.com/Vedant08I/SQL/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vedant08I/SQL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vedant08I/SQL/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vedant08I/SQL/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Vedant08I/SQL/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/Vedant08I/SQL/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2751-robot-collisions](https://github.com/Vedant08I/SQL/tree/master/2751-robot-collisions) |
