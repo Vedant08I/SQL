@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vedant08I/SQL/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vedant08I/SQL/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Vedant08I/SQL/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Vedant08I/SQL/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vedant08I/SQL/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/Vedant08I/SQL/tree/master/2573-find-the-string-with-lcp) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Vedant08I/SQL/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/Vedant08I/SQL/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Vedant08I/SQL/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2751-robot-collisions](https://github.com/Vedant08I/SQL/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant08I/SQL/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
