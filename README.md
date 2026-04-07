@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/Vedant08I/SQL/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Vedant08I/SQL/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vedant08I/SQL/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Vedant08I/SQL/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Vedant08I/SQL/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Vedant08I/SQL/tree/master/3797-design-spreadsheet) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vedant08I/SQL/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Vedant08I/SQL/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Vedant08I/SQL/tree/master/1642-water-bottles) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vedant08I/SQL/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Vedant08I/SQL/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vedant08I/SQL/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2751-robot-collisions](https://github.com/Vedant08I/SQL/tree/master/2751-robot-collisions) |
